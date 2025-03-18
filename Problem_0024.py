@@ -1,4 +1,4 @@
-# ind the Majority Element
+# find the Majority Element
 def majority_element(nums):
     count = 0
     candidate = None
